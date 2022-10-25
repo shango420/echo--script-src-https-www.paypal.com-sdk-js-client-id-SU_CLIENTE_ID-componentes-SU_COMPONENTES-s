@@ -1,0 +1,7 @@
+echo "# echo--script-src-https-www.paypal.com-sdk-js-client-id-SU_CLIENTE_ID-componentes-SU_COMPONENTES-s" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/shango420/echo--script-src-https-www.paypal.com-sdk-js-client-id-SU_CLIENTE_ID-componentes- SU_COMPONENTES-s.git
+ git push -u origen principal
