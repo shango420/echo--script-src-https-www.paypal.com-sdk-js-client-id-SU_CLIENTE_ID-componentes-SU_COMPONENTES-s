@@ -5,3 +5,29 @@ git commit -m "first commit"
 git branch -M main 
 git remote add origin https://github.com/shango420/echo--script-src-https-www.paypal.com-sdk-js-client-id-SU_CLIENTE_ID-componentes- SU_COMPONENTES-s.git
  git push -u origen principal
+
+<script type="text/javascript">
+	function importHotmart(){ 
+ 		var imported = document.createElement('script'); 
+ 		imported.src = 'https://static.hotmart.com/checkout/widget.min.js'; 
+ 		document.head.appendChild(imported); 
+		var link = document.createElement('link'); 
+		link.rel = 'stylesheet'; 
+		link.type = 'text/css'; 
+		link.href = 'https://static.hotmart.com/css/hotmart-fb.min.css'; 
+		document.head.appendChild(link);	} 
+ 	importHotmart(); 
+ </script> 
+ <a onclick="return false;" href="https://pay.hotmart.com/J99406937S?checkoutMode=2" class="hotmart-fb hotmart__button-checkout"><img src='https://static.hotmart.com/img/btn-buy-green.png'></a> https://go.hotmart.com/J99406937S?_gl=1*10me0zk*_gcl_au*MTI0MzUxNjM0LjE3NDE2NzUyODAuMjA2MjI1OTAwMS4xNzQ1ODkyNDIzLjE3NDU4OTI2NDc.*_ga*NzMzNTU0NjYyLjE3NDE2NzUyODA.*_ga_GQH2V1F11Q*MTc0NTg5MjIzMi4yMy4xLjE3NDU4OTI2NDYuNTkuMC45MzA5Mjg4Mw..<script type="text/javascript">
+	function importHotmart(){ 
+ 		var imported = document.createElement('script'); 
+ 		imported.src = 'https://static.hotmart.com/checkout/widget.min.js'; 
+ 		document.head.appendChild(imported); 
+		var link = document.createElement('link'); 
+		link.rel = 'stylesheet'; 
+		link.type = 'text/css'; 
+		link.href = 'https://static.hotmart.com/css/hotmart-fb.min.css'; 
+		document.head.appendChild(link);	} 
+ 	importHotmart(); 
+ </script> 
+ <a onclick="return false;" href="https://pay.hotmart.com/J99406937S?checkoutMode=2" class="hotmart-fb hotmart__button-checkout"><img src='https://static.hotmart.com/img/btn-buy-green.png'></a> 
